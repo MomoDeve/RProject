@@ -1,7 +1,7 @@
 # RProject
 RenPy visual novel based on discord's chat role play
 
-This game was intended to be played by my friends while I was in school, but I think it is worth to be open-sourced and be available for everyone. I do not have plans to develop it further.
+This game was intended to be played by my friends while I was in school, but I think it is worth to be open-sourced and be available for everyone. I do not have plans to develop it further. If you want to play it, you need to download [RenPy](https://www.renpy.org/) engine. 
 
 **Language:** Russian
 
